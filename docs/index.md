@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Goalmunity
 
-You can use the [editor on GitHub](https://github.com/kristoforerickson/Goalmunity/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Ambitious goals like being sober, losing weight or learning an instrument are all things that have to be practiced daily and can be hard without a partner to help motivate you and hold you accountable. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Goalmunity matches you with a partner, together with your partner you will come up with a plan and schedule to meet your goal. Goalmunity will help you and your partner collaborate, keep you on track to hit your goal and provide incentives along the way.
 
-```markdown
-Syntax highlighted code block
+Proud of the work you and your partner are doing, your status will be shared with the Goalmunity community to give you and your partner that extra boost of support & accountability.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kristoforerickson/Goalmunity/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Tech Stack
