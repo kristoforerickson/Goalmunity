@@ -4,3 +4,5 @@ search_enabled: false
 aux_links:
   "Goalmunity on GitHub":
     - "//github.com/kristoforerickson/Goalmunity"
+gh_edit_link: false
+footer_content: "Copyright &copy; 2022 Valkommen Software LLC."
