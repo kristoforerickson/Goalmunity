@@ -30,6 +30,8 @@ domain: "goalmanity.com"
 url: "https://goalmunity.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: valkommensoft
 github_username:  kristoforerickson
+ga_tracking: UA-230298295-1
+ga_tracking_anonymize_ip: true
 
 # Build settings
 #theme: minima
