@@ -6,5 +6,4 @@ has_children: true
 ---
 
 # Features
-
-![Features](https://mermaid-js.github.io/mermaid-live-editor/view?gist=https://gist.github.com/kristoforerickson/92fd186ed815e00112b6c8ab46a69c3e)
+![Untitled-2022-05-31-1630](https://user-images.githubusercontent.com/7684941/171280708-fedd21b6-dc0b-4ab3-8c14-44b4e9c09267.png)
