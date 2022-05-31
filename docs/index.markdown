@@ -1,4 +1,11 @@
-# Goalmunity
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
+# Home
 
 
 
@@ -9,4 +16,3 @@ Goalmunity matches you with a partner, together with your partner you will come 
 Proud of the work you and your partner are doing, your status will be shared with the Goalmunity community to give you and your partner that extra boost of support & accountability.
 
 
-## Tech Stack
